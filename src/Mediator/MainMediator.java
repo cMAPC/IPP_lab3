@@ -2,7 +2,7 @@ package Mediator;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// Mediator Main 
 public class MainMediator {
 
     public static void main(String[] args) {
